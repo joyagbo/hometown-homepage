@@ -1,6 +1,6 @@
 # Kainji Tourism Portal
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a **solo assignment** for my web development course. It is a landing page dedicated to **Kainji**, a unique town in **Niger State, Nigeria**. The website highlights the town's **history, wildlife, and engineering significance**, with a strong focus on:
 
@@ -11,7 +11,7 @@ The primary goal of this project was to practice **HTML5 semantic structure** an
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Hero Section**
   A high-impact introduction featuring a badge-style title and a highlighted subtext box.
@@ -34,7 +34,7 @@ The primary goal of this project was to practice **HTML5 semantic structure** an
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **HTML5**
   Used for page structure with semantic elements such as `<header>`, `<main>`, `<section>`, and `<footer>`.
@@ -52,7 +52,7 @@ The primary goal of this project was to practice **HTML5 semantic structure** an
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 /New-Bussa-Project
@@ -67,13 +67,23 @@ The primary goal of this project was to practice **HTML5 semantic structure** an
 
 ---
 
-## 🎨 Design Inspiration
+## Design Inspiration
 
-The layout was inspired by a modern **hometown homepage** design. I adapted the structure to reflect the **cultural and natural identity of Kainji**, transitioning from a standard block layout to a more dynamic, centered design using `width: fit-content` for badge-style elements.
+The layout and visual style of this project were inspired by a **Figma homepage design titled *"Hometown Homepage"***.
+
+🔗 **Figma Design Link:**
+[https://www.figma.com/design/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage?node-id=121-2&t=qFSdIcko2qy62Pxg-0](https://www.figma.com/design/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage?node-id=121-2&t=qFSdIcko2qy62Pxg-0)
+
+This Figma file influenced the overall structure and visual direction of the project, particularly:
+
+* Hero section layout and hierarchy
+* Section spacing and content flow
+* Card-based grid layouts
+* Hover and interaction design cues
 
 ---
 
-## 📝 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained hands-on experience with:
 
@@ -84,7 +94,7 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-## 👤 Author
+## Author
 
-**[Joy Agbo]**
-Student at **[Scrimba / The Full-stack developer path ]**
+**Joy Agbo**
+Student at **Scrimba / The Full-stack developer path**
